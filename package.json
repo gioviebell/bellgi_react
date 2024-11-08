@@ -1,0 +1,11 @@
+{
+  "name": "bellgi_react",
+  "version": "1.0.0",
+  "description": "Repository for main program \r # test commit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bellgi",
+  "license": "ISC"
+}
